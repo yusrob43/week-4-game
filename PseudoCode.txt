@@ -1,0 +1,13 @@
+Crystal Game
+
+Four crystals displayed at the bottom - Find images
+
+Shown a random number between 19 & 120 - math.floor(math.random) * x ) +y
+
+When the player clicks on a crystal, increase their score by a specific amount
+
+Each crystal's score is between 1 & 12, randomized at the beginning of the game.
+
+They win if they reach the score given, lose if they go over 
+
+Keep record of wins and losses
